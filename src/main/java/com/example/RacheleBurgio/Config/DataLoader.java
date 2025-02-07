@@ -136,6 +136,6 @@ public class DataLoader implements CommandLineRunner {
             System.out.println("Hai scelto di non fare una prenotazione. Arrivederci!");
             System.exit(0);
         }
-        }
     }
+}
 
